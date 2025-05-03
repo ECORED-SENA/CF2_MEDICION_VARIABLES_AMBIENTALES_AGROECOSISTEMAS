@@ -2,25 +2,30 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 30%
+    right: 72%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 57%
     right: 30%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 10%
 
 @keyframes float1
   0%
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
 .banner-principal .tarjeta
   background-position: left 50% !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 400px !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important
@@ -30,3 +35,117 @@
 
 figcaption
   font-weight: normal
+
+.banner-principal h1
+  color: #12263F
+.banner-principal p
+  color: #12263F
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner_interno.png) !important
+
+.bg-color
+  &-1
+    background-color: #D1E6FF
+  &-2
+    background-color: #C1DBAD
+  &-3
+    color: #3D631E !important
+  &-4
+    background-color: #F9F7F4
+  &-5
+    background-color: #FAEFAA
+  &-6
+    background-color: #FCF7D4
+  &-7
+    background-color: #F3D82A
+  &-8
+    background-color: #F4F9FF 
+  &-8
+    border-color: #F3D82A !important
+  &-white
+    background-color: #fff
+
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-1
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+
+.bg-fondo
+  &-1
+    background-image: url("../assets/curso/bg1.svg") !important
+    background-position: bottom
+  &-2
+    background-image: url("../assets/curso/bg2.svg") !important
+    background-position: bottom
+  &-3
+    background-image: url("../assets/curso/bg3.svg") !important
+    background-position: bottom
+  &-4
+    background-image: url("../assets/curso/bg4.svg") !important
+    background-position: bottom
+  &-slider
+    background-image: url("../assets/curso/bg3.png") !important
+    background-position: bottom
+
+.pst
+  text-align: start
+  &-1
+    table
+      min-width: 600px
+
+
+////////ESTILOS SLYDER//////////////
+.slyder-a__bullets__item
+  background-color: #EFE8BF
+  border-color: #EFE8BF
+  border: 1px solid #EFE8BF
+.slyder-a__bullets__item--active
+  background-color: #F3D82A
+  border-color: #F3D82A
+  border: 1px solid #F3D82A
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  border-color: #FF8B16 !important
+  background-color: #FF8B16 !important
+///////////SUB TITULOS////////////////
+.titulo-con-imagen
+  display: flex
+  align-items: center
+  position: relative
+.titulo-con-imagen__fondo
+  background-color: #F3D82A
+  border-radius: 10px
+  padding: 10px 20px
+  display: inline-flex
+  align-items: center
+.titulo-con-imagen__imagen
+  position: absolute
+  left: -30px
+  width: 50px
+.titulo-con-imagen__texto
+  margin: 0
+  padding-left: 20px
+
+///////ESTILOS ACORDEON//////////
+.acordion__accion__btn--a
+  background-color: #FF8B16
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #C1DBAD
+///////CLASES REEMPLAZADOS/////////
+.tabs-b__tab
+  background-color: #F4F9FF 
+.tabs-b.color-acento-contenido .tabs-b__tab--active
+  background-color: #FFF
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: $color-sistema-texto !important
