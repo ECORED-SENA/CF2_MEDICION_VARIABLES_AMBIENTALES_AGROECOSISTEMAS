@@ -160,7 +160,7 @@ export default {
         'información procesada a partir de los registros diligenciados de la medición de las variables ambientales.',
     },
     {
-      termino: 'Variables ambientales:',
+      termino: 'Variables ambientales',
       significado:
         'representación cualitativa o cuantitativa asignada a un aspecto ambiental, que permite observar algún tipo de variación al realizar la medición. el propósito de la medición es conocer la afectación o impacto de las actividades productivas del agroecosistema sobre el medio ambiente y cómo estas variables pueden afectar a otras con las que están relacionadas.',
     },

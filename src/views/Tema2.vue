@@ -17,18 +17,16 @@
             p(data-aos="fade-up") El informe de medición de variables ambientales del agroecosistema es un documento escrito que describe el proceso de recolección de datos mediante un plan de muestreo, presenta los resultados obtenidos y ofrece conclusiones relevantes para la toma de decisiones en relación con el <b>plan de manejo del agroecosistema.</b>
             p.mb-0(data-aos="fade-up") Este informe debe comunicar de manera clara y visual (mediante gráficos y tablas) las características ambientales observadas, contribuyendo a evaluar el estado del sistema y a proponer mejoras en su gestión.
     
-    .titulo-con-imagen.mb-5(data-aos="fade-right")
-      .titulo-con-imagen__fondo
-        img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
-        h3.titulo-con-imagen__texto Elementos básicos del informe
+    .titulo-tres.mb-5(data-aos="fade-right")
+      h3 Elementos básicos del informe
       
     p.mb-4 A continuación, se detallan los componentes esenciales que debe incluir un informe de medición ambiental:
 
     .row.mb-5
-      .col-lg-3.mb-3.mb-lg-0
+      .col-xl-3.mb-3.mb-lg-0.d-none.d-xl-block
         figure
           img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in")
-      .col-lg-9
+      .col-xl-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Alcance de la medición")
             p Define las <b>variables a medir</b>, el objetivo de la medición, las <b>limitaciones</b> del estudio (lo que puede y no puede medirse), la localización del agroecosistema, el <b>tipo de equipos</b> utilizados, la duración del proceso, entre otros aspectos clave.

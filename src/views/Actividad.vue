@@ -40,7 +40,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'diseña ',
+              texto: 'diseña.',
               esCorrecta: true,
             },
             {
@@ -77,7 +77,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Ubicación',
+              texto: 'Ubicación.',
               esCorrecta: false,
             },
             {
@@ -355,12 +355,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Verdadero.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
           ],
@@ -376,12 +376,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Verdadero.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
           ],
@@ -397,12 +397,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Verdadero.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
           ],
@@ -418,12 +418,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Verdadero.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
           ],
@@ -439,12 +439,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Verdadero.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
           ],
