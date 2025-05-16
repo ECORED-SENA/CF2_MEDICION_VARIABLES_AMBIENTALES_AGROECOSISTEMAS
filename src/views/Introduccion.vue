@@ -21,9 +21,9 @@
               .row.justify-content-center.align-items-center
                 .col-lg-auto
                   figure
-                    img(src='@/assets/curso/intro/2.png', alt='', style="max-width: 421px;")
+                    img(src='@/assets/curso/intro/2.png', alt='', style="max-width: 100%;")
                 .col-lg
-                  .py-3.pe-4
+                  .py-3.pe-4.ps-4.ps-lg-0
                     p.mb-0(data-aos="fade-up") El adecuado diligenciamiento de los registros garantiza que la información recolectada sea útil, veraz y trazable. Existen distintos tipos de registros según el tipo de variable, la frecuencia de medición y el medio en que se recopilan los datos (físico, digital o mixto). Además, los formatos deben adaptarse a las características del agroecosistema y a los objetivos del estudio. Por lo tanto, la construcción y uso de estos registros exige un enfoque técnico y sistemático.
             
             
