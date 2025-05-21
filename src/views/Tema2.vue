@@ -308,6 +308,20 @@
       
           
 
+    .tarjeta.bg-color-11.p-3.mb-5
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/tema2/13.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1.txt-color-1 Informes de medición 
+              p.text-small.text-white Se invita a leer el documento Informes de medición, donde se aborda la elaboración de informes e interpretación de resultados ambientales, especialmente relacionados con variables medidas in situ y en laboratorio. 
+            .col-sm-auto
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
+    
           
 
 </template>
