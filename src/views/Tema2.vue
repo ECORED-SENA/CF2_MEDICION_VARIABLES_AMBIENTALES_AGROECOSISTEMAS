@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Informes de Medición
+      h1 Informes de medición
     
     .bg-color-5.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -33,7 +33,7 @@
           div(titulo="Plan de muestreo")
             p Detalla las variables y condiciones específicas del muestreo. En algunos casos, se recomienda realizar una <b>visita preliminar</b> para diseñar un plan que contemple todas las variables y condiciones del sitio. Debe seguir lineamientos como los establecidos en el <b>Protocolo de Monitoreo y Seguimiento del Agua (IDEAM, 2021)</b>, que incluye condiciones técnicas específicas según el tipo de muestra (agua, suelo, etc.).
           div(titulo="Resultados de la medición")
-            p Presenta la información procesada a partir de los registros. Es recomendable utilizar <b>tablas y gráficos</b> para facilitar la comprensión y el análisis. Llevar los registros en formato <b>digital o mixto</b> (papel-digital) mejora la organización y visualización de los datos.
+            p Presenta la información procesada a partir de los registros. Es recomendable utilizar <b>tablas y gráficos</b> para facilitar la comprensión y el análisis. Llevar los registros en formato <b>digital o mixto</b> (papel digital) mejora la organización y visualización de los datos.
           div(titulo="Análisis y conclusiones")
             p Los resultados deben ser <b>interpretados</b>, no solo presentados. El análisis permite tomar decisiones informadas sobre el manejo del suelo, agua y biodiversidad del agroecosistema. Las conclusiones deben estar <b>soportadas con bibliografía técnica y científica</b> que valide los hallazgos.
           div(titulo="Comparación con normativas")
@@ -42,7 +42,7 @@
     p.mb-5 La presentación de resultados sin análisis no aporta valor suficiente para la gestión ambiental. Es esencial que los informes sean rigurosos, basados en evidencias y acompañados por referentes normativos y científicos. La interpretación adecuada de los datos permite identificar impactos positivos o negativos, proponer acciones correctivas y prevenir alteraciones importantes del agroecosistema, como cambios en la calidad del agua o la disminución de polinizadores.
     
     .titulo-sexto.color-acento-contenido
-      h5 Table 1.
+      h5 Tabla 1.
       span Ejemplo de variables ambientales a medir para comparar con normatividad
     
     .tabla-a.color-acento-botones.mb-5
@@ -56,7 +56,7 @@
         tbody
           tr
             td.pst
-              p.text-bold  Parámetros fisicoquímicos asociados a vertimientos puntuales de aguas residuales no domésticas - beneficio tradicional:
+              p.text-bold  Parámetros fisicoquímicos asociados a vertimientos puntuales de aguas residuales no domésticas beneficio tradicional:
               ul.lista-ul--color.ms-3
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-3
@@ -88,10 +88,10 @@
             td.pst Finca cafetera con beneficio tradicional
             td.pst 
               p <b>Resolución 631 de 2015.</b> Establece los parámetros y valores límites permisibles en vertimientos puntuales a cuerpos de aguas superficiales y a los sistemas de alcantarillado público.
-              p <b>Artículo 9:</b> Parámetros fisicoquímicos a monitorear y sus valores límites máximos permisibles para aguas residuales no domésticas de actividades agroindustriales.
+              p <b>Artículo 9:</b> parámetros fisicoquímicos a monitorear y sus valores límites máximos permisibles para aguas residuales no domésticas de actividades agroindustriales.
           tr
             td.pst
-              p.text-bold  Parámetros fisicoquímicos asociados a vertimientos puntuales de aguas residuales no domésticas – producción de plátano y banano:
+              p.text-bold  Parámetros fisicoquímicos asociados a vertimientos puntuales de aguas residuales no domésticas producción de plátano y banano:
               ul.lista-ul--color.ms-3
                 li.mb-0.d-flex
                   i.fas.fa-leaf.bg-color-3
@@ -140,7 +140,7 @@
                   p.mb-0 Color real
             td.pst Productora de plátano y banano
             td.pst 
-              p <b>Resolución 631 de 2015.</b> misma que aplica para agroindustrias diversas. Incluye parámetros específicos para aguas residuales generadas por la producción de frutas como plátano y banano.
+              p <b>Resolución 631 de 2015.</b> Misma que aplica para agroindustrias diversas. Incluye parámetros específicos para aguas residuales generadas por la producción de frutas como plátano y banano.
 
     .row.mb-5
       .col-lg-4.order-2
@@ -166,13 +166,13 @@
                 ul.lista-ul--color.ms-3
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-3
-                    p.mb-0 •	Presentar los resultados a través de <b>gráficos de barras</b> u otras representaciones visuales (por ejemplo, porcentajes, distribuciones temporales o espaciales) permite observar de manera clara los órdenes o clases predominantes de individuos en el suelo o en otros elementos del agroecosistema.
+                    p.mb-0 Presentar los resultados a través de <b>gráficos de barras</b> u otras representaciones visuales (por ejemplo, porcentajes, distribuciones temporales o espaciales) permite observar de manera clara los órdenes o clases predominantes de individuos en el suelo o en otros elementos del agroecosistema.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-3
-                    p.mb-0 •	En mediciones relacionadas con el <b>agua</b>, los resultados pueden ser comparados con los <b>límites permisibles establecidos por la normativa</b> o evaluarse su comportamiento <b>a lo largo del tiempo</b>, especialmente si se programan muestreos periódicos.
+                    p.mb-0 En mediciones relacionadas con el <b>agua</b>, los resultados pueden ser comparados con los <b>límites permisibles establecidos por la normativa</b> o evaluarse su comportamiento <b>a lo largo del tiempo</b>, especialmente si se programan muestreos periódicos.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-3
-                    p.mb-0 •	Para variables de <b>biodiversidad</b>, los datos permiten calcular <b>índices ecológicos</b> (como el de Shannon o Simpson), los cuales ayudan a estimar la calidad de un recurso específico y el estado de conservación del agroecosistema.
+                    p.mb-0 Para variables de <b>biodiversidad</b>, los datos permiten calcular <b>índices ecológicos</b> (como el de #[em Shannon] o #[em Simpson]), los cuales ayudan a estimar la calidad de un recurso específico y el estado de conservación del agroecosistema.
               .col-lg-5(data-aos="zoom-in").order-1.mb-3.mb-lg-0
                 img.img-fluid(src='@/assets/curso/tema2/6.png', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
     
@@ -218,7 +218,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Yf9uPBSM-2A?si=fWM7k4QiJTDgZtPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
     
     p.mb-5 A continuación se presenta un ejemplo del registro y análisis de resultados correspondientes a la variable ambiental pH.
@@ -226,7 +226,7 @@
     .row.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Table 2.
+          h5 Tabla 2.
           span Ejemplo de hoja de cálculo 
     
         .tabla-a.color-acento-botones.mb-5.pst-1

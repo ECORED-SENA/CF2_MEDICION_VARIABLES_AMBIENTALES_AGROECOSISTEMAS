@@ -45,13 +45,13 @@
               ul.lista-ul--color
                 li.mb-0.d-flex.mb-3
                   i.fas.fa-leaf.bg-color-3
-                  p.mb-0 <b>Registros cualitativos:</b> Recogen información valorada en forma de texto o palabras. Ejemplo: ¿Percibe un olor fétido en el agua? Respuestas: Sí / No / Otro olor ¿cuál?
+                  p.mb-0 <b>Registros cualitativos:</b> recogen información valorada en forma de texto o palabras. Ejemplo: ¿Percibe un olor fétido en el agua? Respuestas: Sí / No / Otro olor ¿cuál?
                 li.mb-0.d-flex.mb-3
                   i.fas.fa-leaf.bg-color-3
-                  p.mb-0 <b>Registros cuantitativos:</b> Contienen datos expresados en cifras o valores numéricos. Ejemplo. Temperatura del agua en °C.
+                  p.mb-0 <b>Registros cuantitativos:</b> contienen datos expresados en cifras o valores numéricos. Ejemplo. Temperatura del agua en °C.
                 li.mb-0.d-flex.mb-3
                   i.fas.fa-leaf.bg-color-3
-                  p.mb-0 <b>Registros mixtos:</b> Combinan información cualitativa y cuantitativa. Ejemplo: ¿El agroecosistema incluye especies arbóreas nativas o cultivadas? Opciones: Nativas / Cultivadas / Ambas. ¿Cuántas especies?
+                  p.mb-0 <b>Registros mixtos:</b> combinan información cualitativa y cuantitativa. Ejemplo: ¿El agroecosistema incluye especies arbóreas nativas o cultivadas? Opciones: Nativas / Cultivadas / Ambas. ¿Cuántas especies?
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -61,10 +61,10 @@
               ul.lista-ul--color
                 li.mb-0.d-flex.mb-3
                   i.fas.fa-leaf.bg-color-3
-                  p.mb-0 <b>Registros diarios:</b> Se diligencian todos los días. Son comunes para variables agroclimáticas o calidad del agua.
+                  p.mb-0 <b>Registros diarios:</b> se diligencian todos los días. Son comunes para variables agroclimáticas o calidad del agua.
                 li.mb-0.d-flex.mb-3
                   i.fas.fa-leaf.bg-color-3
-                  p.mb-0 <b>Registros periódicos:</b> Se diligencian en intervalos definidos en el plan de muestreo, como mensual, semestral o anual. Ejemplo: seguimiento de macroinvertebrados, materia orgánica del suelo, o biodiversidad.
+                  p.mb-0 <b>Registros periódicos:</b> se diligencian en intervalos definidos en el plan de muestreo, como mensual, semestral o anual. Ejemplo: seguimiento de macroinvertebrados, materia orgánica del suelo, o biodiversidad.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -149,17 +149,17 @@
         figure
           img(src="@/assets/curso/tema1/10.png", data-aos="zoom-in")
       .col-lg-8
-        p.mb-4(data-aos="fade-left") El ejemplo anterior corresponde a un muestreo de mesofauna realizado en una muestra de suelo. A partir del análisis de los resultados obtenidos, pueden extraerse las siguientes conclusiones: El suelo del agroecosistema evaluado presenta una notable biodiversidad, evidenciada por la presencia de más de nueve (9) órdenes o clases de entomofauna. Este dato refleja un nivel de diversidad biológica importante, lo cual es un indicio positivo en términos ecológicos.
+        p.mb-4(data-aos="fade-left") El ejemplo anterior corresponde a un muestreo de mesofauna realizado en una muestra de suelo. A partir del análisis de los resultados obtenidos, pueden extraerse las siguientes conclusiones: el suelo del agroecosistema evaluado presenta una notable biodiversidad, evidenciada por la presencia de más de nueve (9) órdenes o clases de entomofauna. Este dato refleja un nivel de diversidad biológica importante, lo cual es un indicio positivo en términos ecológicos.
     
         .bg-color-9.p-4(data-aos="fade-left")
-          p Dentro de los grupos identificados, el orden Hymenoptera —específicamente las hormigas en este caso— fue el más abundante. Este hallazgo cobra relevancia si se considera el papel ecológico fundamental de las hormigas en el suelo:
+          p Dentro de los grupos identificados, el orden #[em Hymenoptera] específicamente las hormigas en este caso fue el más abundante. Este hallazgo cobra relevancia si se considera el papel ecológico fundamental de las hormigas en el suelo:
           ul.lista-ul--color.ms-3
             li.mb-0.d-flex
               i.fas.fa-leaf.bg-color-3
-              p.mb-0 Actúan como dispersoras de semillas
+              p.mb-0 Actúan como dispersoras de semillas.
             li.mb-0.d-flex
               i.fas.fa-leaf.bg-color-3
-              p.mb-0 Participan en el control biológico de ciertos insectos plaga
+              p.mb-0 Participan en el control biológico de ciertos insectos plaga.
             li.mb-0.d-flex
               i.fas.fa-leaf.bg-color-3
               p.mb-0 Contribuyen a la descomposición de la materia orgánica.
@@ -227,7 +227,7 @@
                   img(src='@/assets/curso/tema1/18.svg' alt='AvatarTop' , style="width: 90px").mx-auto.mb-3
                   .bg-color-5.d-inline-block.px-3.py-1.mb-3
                     h5.text-center.mb-0 Fecha y hora
-                  p.text-center Registra el momento preciso en que se lleva a cabo el muestreo
+                  p.text-center Registra el momento preciso en que se lleva a cabo el muestreo.
                 .bg-color-white.p-4.h-100.shadow-app.tarjeta.text-center
                   img(src='@/assets/curso/tema1/19.svg' alt='AvatarTop' , style="width: 90px").mx-auto.mb-3
                   .bg-color-5.d-inline-block.px-3.py-1.mb-3
@@ -334,7 +334,7 @@
                       p.mb-0 Ayudan a <b>evaluar el impacto</b> de prácticas agroecológicas, especialmente en procesos de reconversión o transición.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Posibilitan la <b>detección de cambios bruscos</b> en el ecosistema, permitiendo investigar su origen (ej.: disminución de polinizadores como indicio de contaminación).
+                      p.mb-0 Posibilitan la <b>detección de cambios bruscos</b> en el ecosistema, permitiendo investigar su origen (ejemplo: disminución de polinizadores como indicio de contaminación).
               .col-lg-5(data-aos="zoom-in")
                 img.img-fluid(src='@/assets/curso/tema1/26.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
  

@@ -98,7 +98,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/72210002_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -137,7 +137,8 @@ export default {
     },
     {
       termino: 'Formatos para muestreo',
-      significado: 'instrumentos ',
+      significado:
+        'instrumentos que permiten recopilar información sobre las variables ambientales en agroecosistemas. Ejemplo: planillas de muestreo, formatos de registro, etc.',
     },
     {
       termino: 'Informe de medición',
@@ -191,7 +192,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {
