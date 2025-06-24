@@ -17,7 +17,7 @@
             .custom-image-card-2.h-100.bg-color-2.tarjeta
               img.custom-image-card__image(src="@/assets/curso/tema1/1.png" alt="")
               .custom-image-card__text.p-4
-                h5.mb-2.text-center Formato o Planilla
+                h5.mb-2.text-center Formato o planilla
                 p.mb-0 Instrumento de recolección de datos diseñado previamente a la medición.
           .col-lg-6.mb-4(data-aos="zoom-in-down")
             .custom-image-card-2.h-100.bg-color-2.tarjeta
@@ -75,7 +75,7 @@
 
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
-      h3 Registros según le medio de diligenciamiento
+      h3 Registros según el medio de diligenciamiento
     
     p.mb-5 Los registros también pueden clasificarse de acuerdo con la variable específica que se desea medir dentro del agroecosistema. Algunos ejemplos son:
 
@@ -126,13 +126,13 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 1.
-      span Prospectiva como gestión del cambio y clave de innovación
+      span Ejemplo registro de resultados para análisis de suelo
     
     div.bg-color-4.p-5.tarjeta.mb-5
       .row.justify-content-center
         .col-lg-9
           figure
-            img(src='@/assets/curso/tema1/9-1.svg', alt='Tabla con resultados de análisis de suelos agrícolas que incluye fecha de análisis, parámetros medidos como textura, pH, conductividad, nutrientes y materia orgánica, unidades utilizadas, resultados obtenidos y un espacio para observaciones.')
+            img(src='@/assets/curso/tema1/f1.png', alt='Tabla con resultados de análisis de suelos agrícolas que incluye fecha de análisis, parámetros medidos como textura, pH, conductividad, nutrientes y materia orgánica, unidades utilizadas, resultados obtenidos y un espacio para observaciones.', style="max-width: 866px;")
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 2.
@@ -142,7 +142,7 @@
       .row.justify-content-center
         .col-lg-9
           figure
-            img(src='@/assets/curso/tema1/9-2.svg', alt='Tabla de inventario de mesofauna del suelo que presenta conteos de diferentes órdenes y clases de organismos en cuatro fechas y horarios distintos, junto con datos del lote, coordenadas, manejo del suelo, tipo de muestra, observaciones y responsables del muestreo. ')
+            img(src='@/assets/curso/tema1/f2.png', alt='Tabla de inventario de mesofauna del suelo que presenta conteos de diferentes órdenes y clases de organismos en cuatro fechas y horarios distintos, junto con datos del lote, coordenadas, manejo del suelo, tipo de muestra, observaciones y responsables del muestreo. ', style="max-width: 873px;")
     
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
@@ -152,7 +152,7 @@
         p.mb-4(data-aos="fade-left") El ejemplo anterior corresponde a un muestreo de mesofauna realizado en una muestra de suelo. A partir del análisis de los resultados obtenidos, pueden extraerse las siguientes conclusiones: el suelo del agroecosistema evaluado presenta una notable biodiversidad, evidenciada por la presencia de más de nueve (9) órdenes o clases de entomofauna. Este dato refleja un nivel de diversidad biológica importante, lo cual es un indicio positivo en términos ecológicos.
     
         .bg-color-9.p-4(data-aos="fade-left")
-          p Dentro de los grupos identificados, el orden #[em Hymenoptera] específicamente las hormigas en este caso fue el más abundante. Este hallazgo cobra relevancia si se considera el papel ecológico fundamental de las hormigas en el suelo:
+          p Dentro de los grupos identificados, el orden Hymenoptera específicamente las hormigas en este caso fue el más abundante. Este hallazgo cobra relevancia si se considera el papel ecológico fundamental de las hormigas en el suelo:
           ul.lista-ul--color.ms-3
             li.mb-0.d-flex
               i.fas.fa-leaf.bg-color-3
@@ -174,7 +174,7 @@
       .row.justify-content-center
         .col-lg-9
           figure
-            img(src='@/assets/curso/tema1/10-1.svg', alt='Tabla de resultados de análisis de agua superficial que incluye fecha de análisis, parámetros físicos y químicos como pH, sólidos suspendidos, DQO, conductividad, nitrógeno, fósforo y porcentaje de oxígeno disuelto, junto con unidades de medida, resultados obtenidos y espacio para observaciones.')
+            img(src='@/assets/curso/tema1/f3.png', alt='Tabla de resultados de análisis de agua superficial que incluye fecha de análisis, parámetros físicos y químicos como pH, sólidos suspendidos, DQO, conductividad, nitrógeno, fósforo y porcentaje de oxígeno disuelto, junto con unidades de medida, resultados obtenidos y espacio para observaciones.', style="max-width: 873px;")
     
     .row.mb-5
       .col-lg-4.order-2
@@ -266,7 +266,7 @@
               img(src='@/assets/curso/tema1/22.svg', alt='', style="width: 90px").mx-auto.mb-4
               .bg-color-10.d-inline-block.px-3.py-1.mb-3
                 h5.text-center.mb-0 01
-              p.text-center La información debe <b>registrarse completamente</b>, sin dejar campos vacíos.
+              p.text-center La información debe registrarse completamente, sin dejar campos vacíos.
 
           .col-sm-6.col-lg-3.mb-4.mb-lg-0
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -277,7 +277,7 @@
 
               .bg-color-10.d-inline-block.px-3.py-1.mb-3
                 h5.text-center.mb-0 02
-              p.text-center El responsable del diligenciamiento debe tener <b>competencias y conocimientos</b> sobre el tipo de muestreo que realiza.
+              p.text-center El responsable del diligenciamiento debe tener competencias y conocimientos sobre el tipo de muestreo que realiza.
 
           .col-sm-6.col-lg-3.mb-4.mb-sm-0
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -288,7 +288,7 @@
 
               .bg-color-10.d-inline-block.px-3.py-1.mb-3
                 h5.text-center.mb-0 03
-              p.text-center Es indispensable conocer las <b>unidades de medida</b> y el <b>uso correcto de los instrumentos</b> (por ejemplo: °C, ppm, %, etc.).
+              p.text-center Es indispensable conocer las unidades de medida y el uso correcto de los instrumentos (por ejemplo: °C, ppm, %, etc.).
 
           .col-sm-6.col-lg-3
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -299,7 +299,7 @@
 
               .bg-color-10.d-inline-block.px-3.py-1.mb-3
                 h5.text-center.mb-0 04
-              p.text-center Los datos deben representar fielmente lo observado, por lo tanto, <b>no deben ser alterados</b> bajo ninguna circunstancia.
+              p.text-center Los datos deben representar fielmente lo observado, por lo tanto, no deben ser alterados bajo ninguna circunstancia.
 
     .titulo-tres.mb-4(data-aos="flip-up").mb-4
       h3 Importancia y usos de los registros ambientales
@@ -316,25 +316,25 @@
                   ul.lista-ul--color.ms-3
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Funcionan como <b>historial ambiental</b> del sitio de estudio.
+                      p.mb-0 Funcionan como historial ambiental del sitio de estudio.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Son fundamentales en <b>procesos de certificación ecológica</b> o en esquemas de sostenibilidad.
+                      p.mb-0 Son fundamentales en procesos de certificación ecológica o en esquemas de sostenibilidad.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Sirven como <b>evidencia en investigaciones y procesos pedagógicos.</b>
+                      p.mb-0 Sirven como evidencia en investigaciones y procesos pedagógicos.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Permiten <b>comparar distintos agroecosistemas</b>, identificando similitudes o diferencias relevantes.
+                      p.mb-0 Permiten comparar distintos agroecosistemas, identificando similitudes o diferencias relevantes.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Son base para <b>procesar y graficar la información ambiental</b>, facilitando la interpretación de resultados.
+                      p.mb-0 Son base para procesar y graficar la información ambiental, facilitando la interpretación de resultados.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Ayudan a <b>evaluar el impacto</b> de prácticas agroecológicas, especialmente en procesos de reconversión o transición.
+                      p.mb-0 Ayudan a evaluar el impacto de prácticas agroecológicas, especialmente en procesos de reconversión o transición.
                     li.mb-0.d-flex
                       i.fas.fa-leaf.bg-color-3
-                      p.mb-0 Posibilitan la <b>detección de cambios bruscos</b> en el ecosistema, permitiendo investigar su origen (ejemplo: disminución de polinizadores como indicio de contaminación).
+                      p.mb-0 Posibilitan la detección de cambios bruscos en el ecosistema, permitiendo investigar su origen (ejemplo: disminución de polinizadores como indicio de contaminación).
               .col-lg-5(data-aos="zoom-in")
                 img.img-fluid(src='@/assets/curso/tema1/26.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
  

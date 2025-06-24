@@ -14,7 +14,7 @@
             img(src='@/assets/curso/tema2/1.png', alt='')
         .col-lg.order-1.mb-3.mb-lg-0
           .p-4
-            p(data-aos="fade-up") El informe de medición de variables ambientales del agroecosistema es un documento escrito que describe el proceso de recolección de datos mediante un plan de muestreo, presenta los resultados obtenidos y ofrece conclusiones relevantes para la toma de decisiones en relación con el <b>plan de manejo del agroecosistema.</b>
+            p(data-aos="fade-up") El informe de medición de variables ambientales del agroecosistema es un documento escrito que describe el proceso de recolección de datos mediante un plan de muestreo, presenta los resultados obtenidos y ofrece conclusiones relevantes para la toma de decisiones en relación con el plan de manejo del agroecosistema.
             p.mb-0(data-aos="fade-up") Este informe debe comunicar de manera clara y visual (mediante gráficos y tablas) las características ambientales observadas, contribuyendo a evaluar el estado del sistema y a proponer mejoras en su gestión.
     
     .titulo-tres.mb-5(data-aos="fade-right")
@@ -29,15 +29,15 @@
       .col-xl-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Alcance de la medición")
-            p Define las <b>variables a medir</b>, el objetivo de la medición, las <b>limitaciones</b> del estudio (lo que puede y no puede medirse), la localización del agroecosistema, el <b>tipo de equipos</b> utilizados, la duración del proceso, entre otros aspectos clave.
+            p Define las variables a medir, el objetivo de la medición, las limitaciones del estudio (lo que puede y no puede medirse), la localización del agroecosistema, el tipo de equipos utilizados, la duración del proceso, entre otros aspectos clave.
           div(titulo="Plan de muestreo")
-            p Detalla las variables y condiciones específicas del muestreo. En algunos casos, se recomienda realizar una <b>visita preliminar</b> para diseñar un plan que contemple todas las variables y condiciones del sitio. Debe seguir lineamientos como los establecidos en el <b>Protocolo de Monitoreo y Seguimiento del Agua (IDEAM, 2021)</b>, que incluye condiciones técnicas específicas según el tipo de muestra (agua, suelo, etc.).
+            p Detalla las variables y condiciones específicas del muestreo. En algunos casos, se recomienda realizar una visita preliminar para diseñar un plan que contemple todas las variables y condiciones del sitio. Debe seguir lineamientos como los establecidos en el Protocolo de Monitoreo y Seguimiento del Agua (IDEAM, 2021), que incluye condiciones técnicas específicas según el tipo de muestra (agua, suelo, etc.).
           div(titulo="Resultados de la medición")
-            p Presenta la información procesada a partir de los registros. Es recomendable utilizar <b>tablas y gráficos</b> para facilitar la comprensión y el análisis. Llevar los registros en formato <b>digital o mixto</b> (papel digital) mejora la organización y visualización de los datos.
+            p Presenta la información procesada a partir de los registros. Es recomendable utilizar tablas y gráficos para facilitar la comprensión y el análisis. Llevar los registros en formato digital o mixto (papel digital) mejora la organización y visualización de los datos.
           div(titulo="Análisis y conclusiones")
-            p Los resultados deben ser <b>interpretados</b>, no solo presentados. El análisis permite tomar decisiones informadas sobre el manejo del suelo, agua y biodiversidad del agroecosistema. Las conclusiones deben estar <b>soportadas con bibliografía técnica y científica</b> que valide los hallazgos.
+            p Los resultados deben ser interpretados, no solo presentados. El análisis permite tomar decisiones informadas sobre el manejo del suelo, agua y biodiversidad del agroecosistema. Las conclusiones deben estar soportadas con bibliografía técnica y científica que valide los hallazgos.
           div(titulo="Comparación con normativas")
-            p En función del propósito de la medición, los resultados deben contrastarse con la <b>normatividad ambiental vigente</b>, lo cual permite identificar si se cumplen los límites permisibles establecidos para variables clave.
+            p En función del propósito de la medición, los resultados deben contrastarse con la normatividad ambiental vigente, lo cual permite identificar si se cumplen los límites permisibles establecidos para variables clave.
     
     p.mb-5 La presentación de resultados sin análisis no aporta valor suficiente para la gestión ambiental. Es esencial que los informes sean rigurosos, basados en evidencias y acompañados por referentes normativos y científicos. La interpretación adecuada de los datos permite identificar impactos positivos o negativos, proponer acciones correctivas y prevenir alteraciones importantes del agroecosistema, como cambios en la calidad del agua o la disminución de polinizadores.
     
@@ -147,14 +147,14 @@
         figure
           img(src="@/assets/curso/tema2/4.png", data-aos="zoom-in")
       .col-lg-8.order-1.mb-3.mb-lg-0
-        p(data-aos="fade-left") Para una adecuada interpretación de los resultados de las variables ambientales, es necesario contrastarlos con los <b>límites permisibles establecidos por la normativa vigente.</b> En el material complementario, se encuentra disponible la <b>Resolución 631 de 2015</b>, la cual especifica los <b>valores límites por tipo de actividad</b>, especialmente relevantes cuando se analizan variables asociadas al <b>recurso hídrico</b>.
+        p(data-aos="fade-left") Para una adecuada interpretación de los resultados de las variables ambientales, es necesario contrastarlos con los límites permisibles establecidos por la normativa vigente. En el material complementario, se encuentra disponible la Resolución 631 de 2015, la cual especifica los valores límites por tipo de actividad, especialmente relevantes cuando se analizan variables asociadas al recurso hídrico.
     
         .bg-color-1.p-4(data-aos="fade-left")
           .row.align-items-start
             .col-lg-auto
               img(src="@/assets/curso/tema2/5.svg", style="max-width: 90px").mx-auto
             .col-lg
-              p.mb-0 En caso de que el agroecosistema esté en proceso de certificación o aplicación a <b>sellos internacionales</b>, las variables a medir estarán determinadas por los <b>requisitos específicos del sello</b> (ambientales, de sostenibilidad o ecológicos), por lo que es fundamental revisar previamente los lineamientos correspondientes.
+              p.mb-0 En caso de que el agroecosistema esté en proceso de certificación o aplicación a sellos internacionales, las variables a medir estarán determinadas por los requisitos específicos del sello (ambientales, de sostenibilidad o ecológicos), por lo que es fundamental revisar previamente los lineamientos correspondientes.
     
     .bg-full-width-1.bg-color-6
       .px-4.px-md-5
@@ -166,13 +166,13 @@
                 ul.lista-ul--color.ms-3
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-3
-                    p.mb-0 Presentar los resultados a través de <b>gráficos de barras</b> u otras representaciones visuales (por ejemplo, porcentajes, distribuciones temporales o espaciales) permite observar de manera clara los órdenes o clases predominantes de individuos en el suelo o en otros elementos del agroecosistema.
+                    p.mb-0 Presentar los resultados a través de gráficos de barras u otras representaciones visuales (por ejemplo, porcentajes, distribuciones temporales o espaciales) permite observar de manera clara los órdenes o clases predominantes de individuos en el suelo o en otros elementos del agroecosistema.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-3
-                    p.mb-0 En mediciones relacionadas con el <b>agua</b>, los resultados pueden ser comparados con los <b>límites permisibles establecidos por la normativa</b> o evaluarse su comportamiento <b>a lo largo del tiempo</b>, especialmente si se programan muestreos periódicos.
+                    p.mb-0 En mediciones relacionadas con el agua, los resultados pueden ser comparados con los límites permisibles establecidos por la normativa o evaluarse su comportamiento a lo largo del tiempo, especialmente si se programan muestreos periódicos.
                   li.mb-0.d-flex
                     i.fas.fa-leaf.bg-color-3
-                    p.mb-0 Para variables de <b>biodiversidad</b>, los datos permiten calcular <b>índices ecológicos</b> (como el de #[em Shannon] o #[em Simpson]), los cuales ayudan a estimar la calidad de un recurso específico y el estado de conservación del agroecosistema.
+                    p.mb-0 Para variables de biodiversidad, los datos permiten calcular índices ecológicos (como el de Shannon o Simpson), los cuales ayudan a estimar la calidad de un recurso específico y el estado de conservación del agroecosistema.
               .col-lg-5(data-aos="zoom-in").order-1.mb-3.mb-lg-0
                 img.img-fluid(src='@/assets/curso/tema2/6.png', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
     
@@ -196,7 +196,7 @@
         .row.p-4.align-items-center
           .col-md-7.mb-4.mb-md-0.p-4
             h4 Coherencia
-            p.mb-0 Las ideas y conclusiones deben estar <b>respaldadas por fuentes bibliográficas técnicas o científicas</b>, evitando contradicciones o afirmaciones no verificables.
+            p.mb-0 Las ideas y conclusiones deben estar respaldadas por fuentes bibliográficas técnicas o científicas, evitando contradicciones o afirmaciones no verificables.
           .col-md-5
             figure
               img(src='@/assets/curso/tema2/8.png', alt='Texto que describa la imagen')
@@ -204,7 +204,7 @@
         .row.p-4.align-items-center
           .col-md-7.mb-4.mb-md-0.p-4
             h4 Consistencia
-            p.mb-0 Mantener la uniformidad en el uso del <b>tiempo verbal</b> (por ejemplo, pasado para describir procedimientos ya realizados), una <b>sintaxis adecuada</b> y un vocabulario técnico apropiado.
+            p.mb-0 Mantener la uniformidad en el uso del tiempo verbal (por ejemplo, pasado para describir procedimientos ya realizados), una sintaxis adecuada y un vocabulario técnico apropiado.
           .col-md-5
             figure
               img(src='@/assets/curso/tema2/9.png', alt='Texto que describa la imagen')
@@ -219,7 +219,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Yf9uPBSM-2A?si=fWM7k4QiJTDgZtPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Video: Herramientas ofimáticas para elaboración del informe ambiental
     
     p.mb-5 A continuación se presenta un ejemplo del registro y análisis de resultados correspondientes a la variable ambiental pH.
 

@@ -20,7 +20,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Fortalecer las habilidades para realizar la elaboración de informes de resultados.',
+        '<b> Objetivo:</b> fortalecer las habilidades para realizar la elaboración de informes de resultados.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',
@@ -36,12 +36,13 @@ export default {
               id: 'a',
               texto:
                 'El formato a planilla es el instrumento de recolección de datos diseñado antes de la medición, mientras que el registro es el formato diligenciado que evidencia el resultado obtenido.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'diseña.',
-              esCorrecta: true,
+              texto:
+                'El formato se diseña previamente y el registro es el documento ya completado tras la medición.',
+              esCorrecta: false,
             },
             {
               id: 'c',
