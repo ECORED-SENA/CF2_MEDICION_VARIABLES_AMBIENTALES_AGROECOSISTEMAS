@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> fortalecer las habilidades para realizar la elaboración de informes de resultados.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -63,7 +63,7 @@ export default {
           id: 2,
           texto:
             '¿Qué elemento NO se indica como obligatorio incluir en un registro para la medición de variables ambientales?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -94,7 +94,7 @@ export default {
           id: 3,
           texto:
             '¿Cómo se clasifican los registros para la medición de variables ambientales en función del tipo de datos recolectados?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -125,7 +125,7 @@ export default {
           id: 4,
           texto:
             '¿Cuál es la principal diferencia entre registros diarios y registros periódicos?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -159,7 +159,7 @@ export default {
           id: 5,
           texto:
             'Dentro de la clasificación según el medio de diligenciamiento, ¿qué tipo de registro se realiza en papel?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -222,7 +222,7 @@ export default {
           id: 7,
           texto:
             'En el diligenciamiento de formatos para la medición, ¿qué aspecto es fundamental según lo descrito en el componente formativo?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -255,7 +255,7 @@ export default {
           id: 8,
           texto:
             '¿Qué elementos básicos debe incluir un informe de medición de variables ambientales?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -288,7 +288,7 @@ export default {
           id: 9,
           texto:
             '¿Cuáles son los aspectos básicos de redacción recomendados para la elaboración del informe de medición?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -319,7 +319,7 @@ export default {
           id: 10,
           texto:
             '¿Qué herramientas ofimáticas se sugieren en el documento para apoyar la elaboración y presentación del informe de resultados?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -372,7 +372,7 @@ export default {
           id: 12,
           texto:
             'El informe de medición debe incluir conclusiones basadas en bibliografía técnica o científica.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -393,7 +393,7 @@ export default {
           id: 13,
           texto:
             'Un registro diligenciado puede ser modificado si se encuentra un error después del análisis.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -414,7 +414,7 @@ export default {
           id: 14,
           texto:
             'El uso de herramientas ofimáticas permite organizar, analizar y presentar los datos de manera más clara y precisa.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -435,7 +435,7 @@ export default {
           id: 15,
           texto:
             'Todos los informes ambientales deben realizarse exclusivamente en papel para cumplir con los requisitos normativos.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
